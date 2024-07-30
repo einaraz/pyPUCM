@@ -18,6 +18,7 @@ dt               = 20        # timestep in seconds
 CASE        = 'equad2010'
 resultsfile = 'ResultsFile/%s.csv'%CASE
 site        = 'EquadRoof2010'
+print("REading dataset %s"%CASE)
 
 # Check if case is a string
 
